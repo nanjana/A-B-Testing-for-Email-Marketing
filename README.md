@@ -18,4 +18,4 @@ Three business requirements mentioned by the client:
 
 3. Identify Optimal Ad Timing Analyze how conversion rates fluctuate based on the most ads day and most ads hour. Identifying the best-performing times can guide when to allocate resources for maximum impact.
 
-Check for code section for more details
+Check code section for more details
