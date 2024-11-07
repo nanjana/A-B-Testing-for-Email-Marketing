@@ -1,6 +1,7 @@
-**A/B Testing for Email Marketing Campaign**
+*A/B Testing for Email Marketing Campaign*
 
 **What is A/B Testing**
+
 A/B testing is a controlled experiment that compares two versions of a variable (e.g., webpage, email, or app feature) to determine which performs better based on a specific metric, such as conversion rate or engagement. It is widely used in digital marketing, product design, and user experience optimization to make data-driven decisions that improve outcomes.
 
 **Objective**
